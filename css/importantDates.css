@@ -1,0 +1,7 @@
+.card-body > .row * {
+    font-size: 22px
+}
+
+.section-title span{
+    color: var(--bs-orange)
+}

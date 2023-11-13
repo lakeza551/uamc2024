@@ -1,0 +1,11 @@
+.topbar {
+    background-color: #333333;
+}
+
+.topbar * {
+    color: white;
+}
+
+.topbar a {
+    text-decoration: none;
+}
