@@ -25,7 +25,7 @@
                                         <div class="col-6 m-auto">
                                             <div class="row align-item-center">
                                                 <p class="my-auto h-auto w-auto">เริ่มรับสมัคร</p>
-                                                <a href="" class="btn btn-outline-primary border-2 w-50">
+                                                <a href="https://forms.gle/6fXsz3SvKbPvka1x5" target="_blank" class="btn btn-outline-primary border-2 w-50">
                                                     ส่งผลงาน
                                                 </a>
                                             </div>
@@ -33,7 +33,7 @@
                                         <div class="col-6 m-auto">
                                             <div class="row">
                                                 <p class="my-auto h-auto w-auto">เริ่มลงทะเบียน</p>
-                                                <a href="" class="btn btn-outline-primary border-2 w-50">
+                                                <a href="https://forms.gle/djyVTHF47FbUV9Zg8" target="_blank" class="btn btn-outline-primary border-2 w-50">
                                                     ลงทะเบียนร่วมงาน
                                                 </a>
                                             </div>

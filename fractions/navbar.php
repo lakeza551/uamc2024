@@ -46,6 +46,12 @@
                 <div class="navbar-option-slideIn"></div>
             </div>
         </a>
+        <a href="/venue.php"> 
+            <div class="navbar-option">
+                <span>Venue</span>
+                <div class="navbar-option-slideIn"></div>
+            </div>
+        </a>
         <a href="/#contact">
             <div class="navbar-option">
                 <span>Contact Us</span>
@@ -53,4 +59,9 @@
             </div>
         </a>
     </div>
+    <script>
+        const option = document.querySelector(`[href='${window.location.pathname}']`)
+        option.querySelector('span').style.color = '#fd7e14'
+        option.querySelector('.navbar-option-slideIn').style.width = '100%'
+    </script>
 </header>

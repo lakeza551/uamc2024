@@ -17,45 +17,42 @@
         <div class="container">
             <div class="row justify-content-center mb-3">
                 <div class="col-xl-12">
+                    <div class="row justify-content-center mb-1">
+                        <div class="col me-1">
+                            <div class="card shadow row justify-content-center rounded p-4 h-100">
+                                <img class="img-fluid" src="./assets/images/สมาคมคณิตศาสตร์.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col me-1">
+                            <div class="card shadow row justify-content-center rounded p-4 h-100">
+                                <img class="img-fluid" src="./assets/images/สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง.png" alt="">
+                                </div>
+                            </div>
+                        <div class="col me-1">
+                            <div class="card shadow row justify-content-center rounded p-4 h-100">
+                                <img class="img-fluid" src="./assets/images/โลโก สสวทท.jpg" alt="">
+                                </div>
+                            </div>
+                        <div class="col">
+                            <div class="card shadow row justify-content-center rounded p-4 h-100">
+                                <img class="img-fluid" src="./assets/images/ม.พระจอมเกล้าธนบุรี.png" alt="">
+                            </div>
+                        </div>
+                    </div>
                     <div class="row justify-content-center">
-                        <div class="col-md-3 mb-3">
-                            <div class="card shadow row justify-content-center mr-3 rounded">
-                                <img class="img-fluid" src="https://picsum.photos/seed/1/200/200" alt="">
+                        <div class="col-3 me-1">
+                            <div class="card shadow row justify-content-center rounded p-4 h-100">
+                                    <img class="img-fluid" src="./assets/images/ม. พระนครเหนือ.png" alt="">
+                                </div>
                             </div>
-                        </div>
-                        <div class="col-md-3 mb-3">
-                            <div class="card h-100 shadow row justify-content-center">
-                                <img class="img-fluid" src="https://picsum.photos/seed/2/200/200" alt="">
+                        <div class="col-3 me-1">
+                            <div class="card shadow row justify-content-center rounded p-4 h-100">
+                                    <img class="img-fluid" src="./assets/images/ม.ศิลปากร.png" alt="">
+                                </div>
                             </div>
-                        </div>
-                        <div class="col-md-3 mb-3">
-                            <div class="card h-100 shadow row justify-content-center">
-                                <img class="img-fluid" src="https://picsum.photos/seed/3/200/200" alt="">
-                            </div>
-                        </div>
-                        <div class="col-md-3 mb-3">
-                            <div class="card h-100 shadow row justify-content-center">
-                                <img class="img-fluid" src="https://picsum.photos/seed/4/200/200" alt="">
-                            </div>
-                        </div>
-                        <div class="col-md-3 mb-3">
-                            <div class="card h-100 shadow row justify-content-center">
-                                <img class="img-fluid" src="https://picsum.photos/seed/5/200/200" alt="">
-                            </div>
-                        </div>
-                        <div class="col-md-3 mb-3">
-                            <div class="card h-100 shadow row justify-content-center">
-                                <img class="img-fluid" src="https://picsum.photos/seed/6/200/200" alt="">
-                            </div>
-                        </div>
-                        <div class="col-md-3 mb-3">
-                            <div class="card h-100 shadow row justify-content-center">
-                                <img class="img-fluid" src="https://picsum.photos/seed/7/200/200" alt="">
-                            </div>
-                        </div>
-                        <div class="col-md-3 mb-3">
-                            <div class="card h-100 shadow row justify-content-center">
-                                <img class="img-fluid" src="https://picsum.photos/seed/8/200/200" alt="">
+                        <div class="col-3 me-1">
+                            <div class="card shadow row justify-content-center rounded p-4 h-100">
+                                <img class="img-fluid" src="./assets/images/Cepmart.png" alt="">
                             </div>
                         </div>
                     </div>
