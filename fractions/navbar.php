@@ -4,55 +4,55 @@
         <img src="./assets/images/uamc-removebg-preview.png" alt="">
     </div>
     <div class="navbar-option-list">
-        <a href="/">
+        <a href="./">
             <div class="navbar-option">
                 <span>Home</span>
                 <div class="navbar-option-slideIn"></div>
             </div>
         </a>
-        <a href="/importantDates.php">
+        <a href="./importantDates.php">
             <div class="navbar-option">
                 <span>Important Dates</span>
                 <div class="navbar-option-slideIn"></div>
             </div>
         </a>
-        <a href="/conferrence.php">
+        <a href="./conferrence.php">
             <div class="navbar-option">
                 <span>Conference Session</span>
                 <div class="navbar-option-slideIn"></div>
             </div>
         </a>
-        <a href="/schedule.php">
+        <a href="./schedule.php">
             <div class="navbar-option">
                 <span>Schedule</span>
                 <div class="navbar-option-slideIn"></div>
             </div>
         </a>
-        <a href="/registration.php">
+        <a href="./registration.php">
             <div class="navbar-option">
                 <span>Registration</span>
                 <div class="navbar-option-slideIn"></div>
             </div>
         </a>
-        <a href="/servey.php">
+        <a href="./servey.php">
             <div class="navbar-option">
                 <span>Servey</span>
                 <div class="navbar-option-slideIn"></div>
             </div>
         </a>
-        <a href="/download.php"> 
+        <a href="./download.php"> 
             <div class="navbar-option">
                 <span>Download</span>
                 <div class="navbar-option-slideIn"></div>
             </div>
         </a>
-        <a href="/venue.php"> 
+        <a href="./venue.php"> 
             <div class="navbar-option">
                 <span>Venue</span>
                 <div class="navbar-option-slideIn"></div>
             </div>
         </a>
-        <a href="/#contact">
+        <a href="./#contact">
             <div class="navbar-option">
                 <span>Contact Us</span>
                 <div class="navbar-option-slideIn"></div>
