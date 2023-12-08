@@ -60,7 +60,7 @@
         </a>
     </div>
     <script>
-        const option = document.querySelector(`[href='${window.location.pathname}']`)
+        const option = document.querySelector(`[href='.${window.location.pathname}']`)
         option.querySelector('span').style.color = '#fd7e14'
         option.querySelector('.navbar-option-slideIn').style.width = '100%'
     </script>

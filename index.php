@@ -30,7 +30,7 @@
                             </div>
                         <div class="col me-1">
                             <div class="card shadow row justify-content-center rounded p-4 h-100">
-                                <img class="img-fluid" src="./assets/images/โลโก สสวทท.jpg" alt="">
+                                <img class="img-fluid" src="./assets/images/SUT_LOGO.png" alt="">
                                 </div>
                             </div>
                         <div class="col">
