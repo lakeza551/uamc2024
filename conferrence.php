@@ -15,7 +15,7 @@
                 <div class="row align-item-center h-auto">
                     <div class="col-md-4 p-4">
                         <div class="d-flex justify-content-center align-item-center h-100">
-                            <img style="display: block" class="img-fluid m-auto rounded" src="/assets/images/img1.jpg" alt="">
+                            <img style="display: block" class="img-fluid m-auto rounded" src="./assets/images/img1.jpg" alt="">
                         </div>
                     </div>
                     <div class="col-md-8 p-4 d-flex align-items-center">
@@ -32,7 +32,7 @@
                     </div>
                     <div class="col-md-4 p-4">
                         <div class="d-flex justify-content-center align-item-center h-100">
-                            <img style="display: block" class="img-fluid m-auto rounded" src="/assets/images/img2.jpg" alt="">
+                            <img style="display: block" class="img-fluid m-auto rounded" src="./assets/images/img2.jpg" alt="">
                         </div>
                     </div>
                     <div class="col-md-8 p-4 d-flex align-items-center">
@@ -49,7 +49,7 @@
                     </div>
                     <div class="col-md-4 p-4">
                         <div class="d-flex justify-content-center align-item-center h-100">
-                            <img style="display: block" class="img-fluid m-auto rounded" src="/assets/images/img3.jpg" alt="">
+                            <img style="display: block" class="img-fluid m-auto rounded" src="./assets/images/img3.jpg" alt="">
                         </div>
                     </div>
                     <div class="col-md-8 p-4 d-flex align-items-center">
@@ -66,7 +66,7 @@
                     </div>
                     <div class="col-md-4 p-4">
                         <div class="d-flex justify-content-center align-item-center h-100">
-                            <img style="display: block" class="img-fluid m-auto rounded" src="/assets/images/img4.jpg" alt="">
+                            <img style="display: block" class="img-fluid m-auto rounded" src="./assets/images/img4.jpg" alt="">
                         </div>
                     </div>
                     <div class="col-md-8 p-4 d-flex align-items-center">
@@ -83,7 +83,7 @@
                     </div>
                     <div class="col-md-4 p-4">
                         <div class="d-flex justify-content-center align-item-center h-100">
-                            <img style="display: block" class="img-fluid m-auto rounded" src="/assets/images/img5.jpg" alt="">
+                            <img style="display: block" class="img-fluid m-auto rounded" src="./assets/images/img5.jpg" alt="">
                         </div>
                     </div>
                     <div class="col-md-8 p-4 d-flex align-items-center">
@@ -100,7 +100,7 @@
                     </div>
                     <div class="col-md-4 p-4">
                         <div class="d-flex justify-content-center align-item-center h-100">
-                            <img style="display: block" class="img-fluid m-auto rounded" src="/assets/images/img6.jpg" alt="">
+                            <img style="display: block" class="img-fluid m-auto rounded" src="./assets/images/img6.jpg" alt="">
                         </div>
                     </div>
                     <div class="col-md-8 p-4 d-flex align-items-center">
@@ -117,7 +117,7 @@
                     </div>
                     <div class="col-md-4 p-4">
                         <div class="d-flex justify-content-center align-item-center h-100">
-                            <img style="display: block" class="img-fluid m-auto rounded" src="/assets/images/img7.jpg" alt="">
+                            <img style="display: block" class="img-fluid m-auto rounded" src="./assets/images/img7.jpg" alt="">
                         </div>
                     </div>
                     <div class="col-md-8 p-4 d-flex align-items-center">
@@ -134,7 +134,7 @@
                     </div>
                     <div class="col-md-4 p-4">
                         <div class="d-flex justify-content-center align-item-center h-100">
-                            <img style="display: block" class="img-fluid m-auto rounded" src="/assets/images/img8.jpg" alt="">
+                            <img style="display: block" class="img-fluid m-auto rounded" src="./assets/images/img8.jpg" alt="">
                         </div>
                     </div>
                     <div class="col-md-8 p-4 d-flex align-items-center">
