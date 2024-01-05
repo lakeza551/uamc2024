@@ -13,6 +13,7 @@
                 <div class="section-title">
                     <h1 class="text-center display-1" style="font-weight: bold; color: black">ที่พักแนะนำ</h1>
                 </div>
+                <h4>ผู้เข้าร่วมงานที่เข้าพักโรงแรม The River Hotel, Trendy Hotel และ The Museum Hotel ที่ประสงค์รถรับส่ง โปรดติดต่อ <a href="mailto:pornsawad_p@silpakorn.edu">pornsawad_p@silpakorn.edu</a></h4>
                 <div class="container p-1 my-3">
                     <h2 class="venue-name" style="font-weight: bold; color: rgb(8, 201, 111)">River Hotel</h2>
                     <p class="venue-info h5">มีหลายราคา คือ 650, 800 และ 1000 บาท</p>

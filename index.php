@@ -20,34 +20,34 @@
                     <div class="row justify-content-center mb-1">
                         <div class="col me-1">
                             <div class="card shadow row justify-content-center rounded p-4 h-100">
-                                <img class="img-fluid" src="./assets/images/สมาคมคณิตศาสตร์.png" alt="">
+                                <img class="img-fluid" src="./assets/images/MATH.png" alt="">
                             </div>
                         </div>
                         <div class="col me-1">
                             <div class="card shadow row justify-content-center rounded p-4 h-100">
-                                <img class="img-fluid" src="./assets/images/สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง.png" alt="">
+                                <img class="img-fluid" src="./assets/images/KMITL.png" alt="">
                                 </div>
                             </div>
                         <div class="col me-1">
                             <div class="card shadow row justify-content-center rounded p-4 h-100">
-                                <img class="img-fluid" src="./assets/images/SUT_LOGO.png" alt="">
+                                <img class="img-fluid" src="./assets/images/SUT.png" alt="">
                                 </div>
                             </div>
                         <div class="col">
                             <div class="card shadow row justify-content-center rounded p-4 h-100">
-                                <img class="img-fluid" src="./assets/images/ม.พระจอมเกล้าธนบุรี.png" alt="">
+                                <img class="img-fluid" src="./assets/images/KMUTNB.png" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="row justify-content-center">
                         <div class="col-3 me-1">
                             <div class="card shadow row justify-content-center rounded p-4 h-100">
-                                    <img class="img-fluid" src="./assets/images/ม. พระนครเหนือ.png" alt="">
+                                    <img class="img-fluid" src="./assets/images/KMUTT.png" alt="">
                                 </div>
                             </div>
                         <div class="col-3 me-1">
                             <div class="card shadow row justify-content-center rounded p-4 h-100">
-                                    <img class="img-fluid" src="./assets/images/ม.ศิลปากร.png" alt="">
+                                    <img class="img-fluid" src="./assets/images/SU.png" alt="">
                                 </div>
                             </div>
                         <div class="col-3 me-1">
@@ -97,7 +97,7 @@
     <section style="background-color: #e0f2f1">
         <div class="container py-5">
             <div class="section-title">
-                <h1 class="text-center">Keynote and invited <span style="color: #fd7e14">Speakers</span></h1>
+                <h1 class="text-center">Keynote and invited <span style="color: #fd7e14">Speaker</span></h1>
             </div>
             <div class="card w-100 my-4">
                 <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel" style="height: 50%">

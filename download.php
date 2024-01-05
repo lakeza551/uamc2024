@@ -16,7 +16,16 @@
                 <div class="container">
                     <div class="d-flex flex-column">
                         <a class="display-6 my-4" href="https://docs.google.com/document/d/1ljPllKds8jGzW02OqV9s0KjwAiaaJ-hw/edit?fbclid=IwAR1Ksd_Azd_3UtpQFC1T-wOlfTLSu45oZJa-WhayzaV6iP1kc5mSL9p72ps" target="_blank">
+                            Abstract Template
+                        </a>
+                        <a class="display-6 my-4" href="" target="_blank">
                             Extended Abstract Template
+                        </a>
+                        <a class="display-6 my-4" href="" target="_blank">
+                            Poster Template
+                        </a>
+                        <a class="display-6 my-4" href="" target="_blank">
+                            ไฟล์อนุมัติโครงการ
                         </a>
                     </div>
                 </div>
