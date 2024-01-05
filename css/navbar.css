@@ -67,3 +67,58 @@
 .navbar-option:hover .navbar-option-slideIn {
     width: 100%;
 }
+
+.navbar-hamburger {
+    display: none;
+    height: 100%;
+    border-style: none;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.navbar-hamburger:hover {
+    background-color: rgb(212, 212, 212);
+}
+
+.navbar-hamburger div {
+    width: 35px;
+    height: 6px;
+    background-color: rgb(75, 75, 75);
+    border-radius: 8px;
+    margin: 2px 0;
+}
+
+.navbar-hamburger-list {
+    position: absolute;
+    top: 100%;
+    left: 0%;
+    width: 100%;
+    background-color: #F5F5F5 !important;
+    padding: 10px 0;
+}
+
+.navbar-hamburger-list a {
+    display: block;
+    width: 100%;
+    padding: 5px 8px;
+    border-radius: 8px;
+}
+
+.navbar-hamburger-list a:hover {
+    background-color: white;
+    color: var(--bs-orange)
+}
+
+.navbar-hamburger-list > .option-wrapper {
+    padding: 5px 8px;
+}
+
+@media screen and (max-width: 1200px) {
+    .navbar-option-list {
+        display: none;
+    }
+    .navbar-hamburger {
+        display: flex;
+        flex-direction: column;
+    }
+}
