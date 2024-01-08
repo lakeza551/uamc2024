@@ -94,7 +94,8 @@
         </a>
     </div>
     <script>
-        const navbarOptions = document.querySelectorAll(`[href='.${window.location.pathname}']`)
+        const path = window.location.pathname.split('/')
+        const navbarOptions = document.querySelectorAll(`[href='./${path[path.length - 1]}']`)
         const option = navbarOptions[0]
         option.querySelector('span').style.color = '#fd7e14'
         option.querySelector('.navbar-option-slideIn').style.width = '100%'

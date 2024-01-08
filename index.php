@@ -40,19 +40,24 @@
                         </div>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-3 me-1">
+                        <div class="col me-1">
                             <div class="card shadow row justify-content-center rounded p-4 h-100">
                                     <img class="img-fluid" src="./assets/images/KMUTT.png" alt="">
                                 </div>
                             </div>
-                        <div class="col-3 me-1">
+                        <div class="col me-1">
                             <div class="card shadow row justify-content-center rounded p-4 h-100">
                                     <img class="img-fluid" src="./assets/images/SU.png" alt="">
                                 </div>
                             </div>
-                        <div class="col-3 me-1">
+                        <div class="col me-1">
                             <div class="card shadow row justify-content-center rounded p-4 h-100">
                                 <img class="img-fluid" src="./assets/images/Cepmart.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col me-1">
+                            <div class="card shadow row justify-content-center rounded p-4 h-100">
+                                <img class="img-fluid" src="./assets/images/SU_80.png" alt="">
                             </div>
                         </div>
                     </div>
