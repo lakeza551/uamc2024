@@ -94,7 +94,7 @@
         <div class="container py-5">
             <div class="row justify-content-center">
                 <div class="card h-100" style="width: 75%">
-                    <img class="img-fluid" src="https://picsum.photos/seed/12/1500/1500" alt="">
+                    <img class="img-fluid" src="./assets/images/Poster_UAMC2024.jpg" alt="">
                 </div>
             </div>
         </div>
@@ -105,27 +105,7 @@
                 <h1 class="text-center">Keynote and invited <span style="color: #fd7e14">Speaker</span></h1>
             </div>
             <div class="card w-100 my-4">
-                <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel" style="height: 50%">
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                        <img src="https://picsum.photos/seed/12/600/600" class="d-block w-100 h-75" alt="...">
-                        </div>
-                        <div class="carousel-item">
-                        <img src="https://picsum.photos/seed/13/600/600" class="d-block w-100 h-75" alt="...">
-                        </div>
-                        <div class="carousel-item">
-                        <img src="https://picsum.photos/seed/14/600/600" class="d-block w-100 h-75" alt="...">
-                        </div>
-                    </div>
-                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Next</span>
-                    </button>
-                </div>
+                <img src="./assets/images/Keynote Speaker.jpg" class="img-fluid d-block w-100 h-75" alt="...">
             </div>
         </div>
     </section>

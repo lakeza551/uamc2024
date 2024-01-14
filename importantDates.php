@@ -68,23 +68,11 @@
                             <div class="card border-0 bg-transparent border-bottom">
                                 <div class="card-body">
                                     <h3 class="card-title">
-                                    10 เมษายน 2567
-                                    </h3>
-                                    <div class="row align-item-center">
-                                        <div class="col">
-                                            <p>วันสุดท้ายของการลงทะเบียนเข้าร่วมงานการประชุมและส่งผลงานฉบับสมบูรณ์</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card border-0 bg-transparent border-bottom">
-                                <div class="card-body">
-                                    <h3 class="card-title">
                                     17 เมษายน 2567
                                     </h3>
                                     <div class="row align-item-center">
                                         <div class="col">
-                                            <p>ปิดรับบทคัดย่อแบบขยาย</p>
+                                            <p>ปิดรับบทคัดย่อแบบขยายและลงทะเบียน</p>
                                         </div>
                                     </div>
                                 </div>
