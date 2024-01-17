@@ -80,7 +80,7 @@
                             <div class="card border-0 bg-transparent border-bottom">
                                 <div class="card-body">
                                     <h3 class="card-title">
-                                    27 เมษายน 2567
+                                    28 เมษายน 2567
                                     </h3>
                                     <div class="row align-item-center">
                                         <div class="col">
