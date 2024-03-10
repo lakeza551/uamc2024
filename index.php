@@ -28,31 +28,31 @@
                                 <img class="img-fluid" src="./assets/images/KMITL.png" alt="">
                                 </div>
                             </div>
-                        <div class="col me-1">
-                            <div class="card shadow row justify-content-center rounded p-4 h-100">
-                                <img class="img-fluid" src="./assets/images/SUT.png" alt="">
-                                </div>
-                            </div>
-                        <div class="col">
-                            <div class="card shadow row justify-content-center rounded p-4 h-100">
-                                <img class="img-fluid" src="./assets/images/KMUTNB.png" alt="">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row justify-content-center">
-                        <div class="col me-1">
-                            <div class="card shadow row justify-content-center rounded p-4 h-100">
+                            <div class="col me-1">
+                                <div class="card shadow row justify-content-center rounded p-4 h-100">
                                     <img class="img-fluid" src="./assets/images/KMUTT.png" alt="">
                                 </div>
                             </div>
-                        <div class="col me-1">
-                            <div class="card shadow row justify-content-center rounded p-4 h-100">
-                                    <img class="img-fluid" src="./assets/images/SU.png" alt="">
+                            <div class="col">
+                                <div class="card shadow row justify-content-center rounded p-4 h-100">
+                                    <img class="img-fluid" src="./assets/images/KMUTNB.png" alt="">
                                 </div>
                             </div>
+                        </div>
+                    <div class="row justify-content-center">
                         <div class="col me-1">
                             <div class="card shadow row justify-content-center rounded p-4 h-100">
                                 <img class="img-fluid" src="./assets/images/Cepmart.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col me-1">
+                            <div class="card shadow row justify-content-center rounded p-4 h-100">
+                                <img class="img-fluid" src="./assets/images/SUT.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col me-1">
+                            <div class="card shadow row justify-content-center rounded p-4 h-100">
+                                <img class="img-fluid" src="./assets/images/SU.png" alt="">
                             </div>
                         </div>
                         <div class="col me-1">

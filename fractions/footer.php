@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-6">
                 <div class="d-flex justify-content-center align-item-center h-100">
-                    <img style="display: block" class="img-fluid m-auto rounded" src="/assets/images/img9.jpg" alt="">
+                    <img style="display: block" class="img-fluid m-auto rounded" src="./assets/images/img9.jpg" alt="">
                 </div>
             </div>
             <div class="col-6">
