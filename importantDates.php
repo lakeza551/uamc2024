@@ -21,20 +21,29 @@
                                     <h3 class="card-title">
                                         15 มกราคม 2567
                                     </h3>
-                                    <div class="row align-item-center">
-                                        <div class="col-6 m-auto">
-                                            <div class="row align-item-center">
-                                                <p class="my-auto h-auto w-auto">เริ่มรับสมัคร</p>
-                                                <a href="https://forms.gle/6fXsz3SvKbPvka1x5" target="_blank" class="btn btn-outline-primary border-2 w-50">
-                                                    ส่งผลงาน
+                                    <div class="row">
+                                        <div class="col-8 mx-3">
+                                            <div class="row">
+                                                <a href="https://forms.gle/djyVTHF47FbUV9Zg8" target="_blank" class="btn btn-outline-primary border-3 w-50">
+                                                    ลงทะเบียนร่วมงาน
                                                 </a>
                                             </div>
                                         </div>
-                                        <div class="col-6 m-auto">
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-8 m-3">
                                             <div class="row">
-                                                <p class="my-auto h-auto w-auto">เริ่มลงทะเบียน</p>
-                                                <a href="https://forms.gle/djyVTHF47FbUV9Zg8" target="_blank" class="btn btn-outline-primary border-2 w-50">
-                                                    ลงทะเบียนร่วมงาน
+                                                <a href="https://forms.gle/6fXsz3SvKbPvka1x5" target="_blank" class="btn btn-outline-danger border-3 w-50">
+                                                    ส่ง Extended Abstract
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-8 mx-3">
+                                            <div class="row">
+                                                <a href="https://forms.gle/su2VfoBnGhsVoiU98" target="_blank" class="btn btn-outline-success border-3 w-50">
+                                                    ส่งไฟล์ Poster
                                                 </a>
                                             </div>
                                         </div>
