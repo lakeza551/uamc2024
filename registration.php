@@ -4,6 +4,7 @@
         <?php include './fractions/header.php'?>
         <link rel="stylesheet" href="./css/index.css">
         <link rel="stylesheet" href="./css/notready.css">
+        <link rel="stylesheet" href="./css/importantDates.css">
     </head>
 <body>
     <?php include './fractions/navbar.php'?>
@@ -14,14 +15,52 @@
                     <h1 class="text-center display-1" style="font-weight: bold; color: black">ลงทะเบียน</h1>
                 </div>
                 <div class="container">
-                    <div class="d-flex flex-column">
-                        <a role="button" style="font-size: 30px" class="display-6 my-3 btn btn-outline-secondary border-3 disabled" target="_blank">
-                            ลงทะเบียนเข้าร่วมงาน
-                        </a>
-                        <a role="button" style="font-size: 30px" class="display-6 my-3 btn btn-outline-secondary border-3 disabled" target="_blank">
-                            ส่งผลงาน
-                        </a>
-                    </div>
+                <div class="card border-0 bg-transparent border-bottom">
+                                <div class="card-body">
+                                    <h3 class="card-title">
+                                        15 มกราคม 2567
+                                    </h3>
+                                    <div class="row">
+                                        <div class="col-8 mx-3">
+                                            <div class="row">
+                                                <button disabled class="btn btn-outline-secondary border-3 w-50">
+                                                    ลงทะเบียนร่วมงาน
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-8 m-3">
+                                            <div class="row">
+                                                <button disabled class="btn btn-outline-secondary border-3 w-50">
+                                                    ส่ง Extended Abstract
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-8 mx-3">
+                                            <div class="row">
+                                                <button disabled class="btn btn-outline-secondary border-3 w-50">
+                                                    ส่งไฟล์ Poster
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card border-0 bg-transparent border-bottom">
+                                <div class="card-body">
+                                    <h3 class="card-title">
+                                    27 มีนาคม 2567
+                                    </h3>
+                                    <div class="row align-item-center">
+                                        <div class="col">
+                                            <p>วันสุดท้ายของการส่งบทคัดย่อ</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                 </div>
             </div>
         </div>
