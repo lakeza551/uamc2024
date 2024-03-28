@@ -15,10 +15,10 @@
                 </div>
                 <div class="container">
                     <div class="d-flex flex-column">
-                        <a style="font-size: 30px" class="display-6 my-3" href="https://forms.gle/djyVTHF47FbUV9Zg8" target="_blank">
+                        <a role="button" style="font-size: 30px" class="display-6 my-3 btn btn-outline-secondary border-3 disabled" target="_blank">
                             ลงทะเบียนเข้าร่วมงาน
                         </a>
-                        <a style="font-size: 30px" class="display-6 my-3" href="https://forms.gle/6fXsz3SvKbPvka1x5" target="_blank">
+                        <a role="button" style="font-size: 30px" class="display-6 my-3 btn btn-outline-secondary border-3 disabled" target="_blank">
                             ส่งผลงาน
                         </a>
                     </div>
