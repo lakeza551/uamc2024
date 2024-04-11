@@ -15,10 +15,10 @@
                 </div>
                 <div class="container">
                     <div class="d-flex flex-column">
-                        <a style="width: fit-content; font-size: 30px" class="btn-download display-6 my-3" href="https://drive.google.com/file/d/1Msxb2JMjU42wKgFf69kgkP8oexjuZGUf/view?usp=drive_link" target="_blank">
+                        <a style="width: fit-content; font-size: 30px" class="btn-download display-6 my-3" href="https://drive.google.com/file/d/1-eSzzaLpY2xXdYncWPcAfKLPCI5aig7S/view?usp=drive_link" target="_blank">
                             รายชื่อผลงานที่ได้นำเสนอในรูปแบบบรรยาย
                         </a>
-                        <a style="width: fit-content; font-size: 30px" class="btn-download display-6 my-3" href="https://drive.google.com/file/d/1pAkvusTI6bjru99W_djuBtG-N1RS_SRQ/view?usp=drive_link" target="_blank">
+                        <a style="width: fit-content; font-size: 30px" class="btn-download display-6 my-3" href="https://drive.google.com/file/d/1Gi-PfGrQwyblzWFACqf1giAZXcPcEguX/view?usp=drive_link" target="_blank">
                             รายชื่อผลงานที่ได้นำเสนอในรูปแบบโปสเตอร์
                         </a>
                         <a style="width: fit-content; font-size: 30px" class="btn-download display-6 my-3" href="https://docs.google.com/document/d/16YzdDbfwcpWn2sis-9ywWqSBj-UF-dO9/edit?usp=drive_link" target="_blank">
