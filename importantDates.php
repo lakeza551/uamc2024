@@ -24,7 +24,7 @@
                                     <div class="row">
                                         <div class="col-8 mx-3">
                                             <div class="row">
-                                                <a class="btn btn-outline-primary border-3 w-50" href="https://forms.gle/djyVTHF47FbUV9Zg8" target="_blank">
+                                                <a class="disabled btn btn-outline-primary border-3 w-50" href="https://forms.gle/djyVTHF47FbUV9Zg8" target="_blank">
                                                     ลงทะเบียนร่วมงาน
                                                 </a>
                                             </div>
@@ -33,7 +33,7 @@
                                     <div class="row">
                                         <div class="col-8 m-3">
                                             <div class="row">
-                                                <a class="btn btn-outline-danger border-3 w-50" href="https://forms.gle/6fXsz3SvKbPvka1x5" target="_blank">
+                                                <a class="disabled btn btn-outline-danger border-3 w-50" href="https://forms.gle/6fXsz3SvKbPvka1x5" target="_blank">
                                                     ส่ง Extended Abstract
                                                 </a>
                                             </div>
@@ -42,7 +42,7 @@
                                     <div class="row">
                                         <div class="col-8 mx-3">
                                             <div class="row">
-                                                <a class="btn btn-outline-success border-3 w-50" href="https://forms.gle/su2VfoBnGhsVoiU98" target="_blank">
+                                                <a class="disabled btn btn-outline-success border-3 w-50" href="https://forms.gle/su2VfoBnGhsVoiU98" target="_blank">
                                                     ส่งไฟล์ Poster
                                                 </a>
                                             </div>
