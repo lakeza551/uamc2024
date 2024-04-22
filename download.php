@@ -45,6 +45,9 @@
                         <a style="width: fit-content; font-size: 30px" class="btn-download display-6 my-3" href="https://drive.google.com/file/d/16PlANjkLfw26iCr0qzr0kHAV2pU4MBlP/view?usp=drive_link" target="_blank">
                             เกณฑ์ที่ใช้ในการประเมินการนำเสนอผลงาน
                         </a>
+                        <a style="width: fit-content; font-size: 30px" class="btn-download display-6 my-3" href="https://drive.google.com/file/d/1AuPGqjM9z2zjXTJgNhuj9jh95eaKZfiX/view?usp=drive_link" target="_blank">
+                            บทคัดย่อ 
+                        </a>
                     </div>
                 </div>
             </div>
