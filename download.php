@@ -15,6 +15,9 @@
                 </div>
                 <div class="container">
                     <div class="d-flex flex-column">
+                        <a style="width: fit-content; font-size: 30px" class="btn-download display-6 my-3" href="https://drive.google.com/file/d/1dJ6o6mj0zfuCrBd-s0_cd7xVY7BNIL79/view?usp=drive_link" target="_blank">
+                            ProceedingsUAMC2024.pdf
+                        </a>
                         <a style="width: fit-content; font-size: 30px" class="btn-download display-6 my-3" href="https://drive.google.com/file/d/1-eSzzaLpY2xXdYncWPcAfKLPCI5aig7S/view?usp=drive_link" target="_blank">
                             รายชื่อผลงานที่ได้นำเสนอในรูปแบบบรรยาย
                         </a>
